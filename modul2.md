@@ -1,6 +1,6 @@
-# 📘 Modul Praktikum 2 – IoT Integration (ESP32/ESP8266 + MQTT + Node-RED)
+# Modul Praktikum 2 – IoT Integration (ESP32/ESP8266 + MQTT + Node-RED)
 
-## 🎯 Tujuan Pembelajaran
+## Tujuan Pembelajaran
 
 1. Mahasiswa memahami arsitektur komunikasi IoT berbasis **MQTT**.
 2. Mahasiswa dapat menghubungkan **ESP32/ESP8266** dengan **MQTT Broker**.
@@ -9,7 +9,7 @@
 
 ---
 
-## 📚 Bahan Kajian
+## Bahan Kajian
 
 * Konsep Internet of Things (IoT).
 * Protokol komunikasi IoT (MQTT vs HTTP).
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Alat & Bahan
+## Alat & Bahan
 
 * Hardware: ESP32 atau ESP8266, sensor (misalnya DHT11/DHT22).
 * Software: Arduino IDE / PlatformIO, Node-RED, Mosquitto MQTT Broker.
@@ -28,7 +28,7 @@
 
 ---
 
-## 🔑 Langkah Praktikum
+## Langkah Praktikum
 
 ### **Langkah 1 – Setup MQTT Broker**
 
@@ -116,7 +116,7 @@
 
 ---
 
-## 📊 Hasil yang Diharapkan
+## Hasil yang Diharapkan
 
 * ESP32/ESP8266 berhasil mengirim data sensor via MQTT.
 * Node-RED menampilkan data sensor dalam bentuk grafik/dashboard.
@@ -124,7 +124,7 @@
 
 ---
 
-## ❓ Pertanyaan Diskusi
+## Pertanyaan Diskusi
 
 1. Mengapa MQTT lebih efisien dibanding HTTP dalam IoT?
 2. Bagaimana cara mengamankan komunikasi MQTT dengan TLS?
@@ -132,7 +132,7 @@
 
 ---
 
-## 📖 Referensi
+## Referensi
 
 1. MQTT.org – [https://mqtt.org](https://mqtt.org)
 2. Node-RED Documentation – [https://nodered.org/docs](https://nodered.org/docs)
