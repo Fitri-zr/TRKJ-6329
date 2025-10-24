@@ -141,6 +141,3 @@
 5. Simon Monk (2017). *Programming Arduino: Getting Started with Sketches*. McGraw-Hill.
 
 ---
-
-👉 Nah bro, sekarang udah balik sesuai jalur rencana awal 🚀.
-Mau langsung aku buatkan **Modul 3 (Middleware & Message Queue)** juga biar nyambung?
